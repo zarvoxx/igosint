@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen?style=for-the-badge)
+<img width="1076" height="597" alt="image" src="https://github.com/user-attachments/assets/db217d08-7f38-42d9-aeb5-01fde454dde2" />
+
 
 **Zarvox İG Osint**, Instagram hesapları üzerinde derinlemesine bilgi toplamak için tasarlanmış, yüksek performanslı bir Open-Source (Açık Kaynak) istihbarat aracıdır. Karmaşık verileri profesyonel tablolar ve terminal efektleri ile sunar.
 
